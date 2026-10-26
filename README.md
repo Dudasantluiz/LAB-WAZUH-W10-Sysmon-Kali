@@ -48,7 +48,7 @@ O Sysmon foi instalado no Windows para fornecer visibilidade sobre criação de 
 
 ---
 
-## ⚔️ Etapa 3: Simulação de Ataque e Detecção (Caso de Uso)
+## ⚔️ Etapa 3: Simulação de Ataque e Detecção 
 
 Foi simulado um ataque de **Força Bruta (Brute Force)** via protocolo **SSH (Porta 22)** utilizando a ferramenta **Hydra** integrada no Kali Linux.
 
